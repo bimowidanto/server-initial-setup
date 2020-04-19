@@ -1,0 +1,2 @@
+# server-initial-setup
+- Ubuntu
